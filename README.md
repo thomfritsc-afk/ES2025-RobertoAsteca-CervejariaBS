@@ -1,7 +1,7 @@
 # Cervejaria BS 🍺
 
 ## Projeto de Software – ES2025
-**Aluno:** Roberto Asteca  
+**Aluno:** Thomas Fritsche 
 **Trabalho Individual**  
 **Disciplina:** Engenharia de Software (ES2025)  
 **Professor:** Radamés (radames@unochapeco.edu.br)
